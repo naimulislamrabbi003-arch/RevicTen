@@ -7,7 +7,7 @@
 
 ## সিস্টেম requirements
 
-| বিষয় | Minimum |
+| বিষয় | Minimum | 
 |---|---|
 | Operating System | Windows 10 / Windows 11 (64-bit) |
 | RAM | 4 GB |
